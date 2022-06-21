@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    background-color: #64b9e6;
+    font-family: Helvetica,"游ゴシック" ,"Yu Gothic";
+    color: #7b7b7b;
+    width: 100%;
+}
+h1,ul,li{
+    margin: 0;
+    padding: 0;
+
+}
+h1{
+    color: #ffffff;
+    height: 60px;
+    font-size: 30px;
+    text-align: center;
+
+}
+.profile{
+    text-align: center;
+    background-color: #ffffff;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    
+}
+
+
+.prof_list{
+    list-style: none;
+
+}
+
+ul{
+    list-style: none;
+}
+
+.list_name{
+    background-color: #d6eff9;
+    color: #64b9e6;
+    font-size: 18px;
+    margin: 0 200px 0 200px;
+}
+
+ul{
+    padding: 10px;
+    margin: 10px;
+}   
+
+.list_content{
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+    
+
+
+
+
+
+
+
+
